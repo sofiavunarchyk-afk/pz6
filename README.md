@@ -177,7 +177,8 @@ int main() {
 Слово: 'education'
 Кількість голосних літер у слові: 5
 ```
-> *(Скріншот роботи програми)*
+> *<img width="1706" height="861" alt="image" src="https://github.com/user-attachments/assets/1cda0b2b-b837-4dcd-8526-a2f10ca3b57e" />
+*
 
 ---
 
@@ -225,7 +226,8 @@ int main() {
 Ivanenko - 85
 Kovalenko - 92
 ```
-> *<img width="1706" height="861" alt="image" src="https://github.com/user-attachments/assets/85f3e064-c2dd-4b50-98b5-d7365c9e5e56" />
+> *<img width="1660" height="771" alt="image" src="https://github.com/user-attachments/assets/8136c3cf-7fa4-480a-bd7e-eede66418b13" />
+
 *
 
 ---
